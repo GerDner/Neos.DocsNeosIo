@@ -10,4 +10,4 @@
 ##############################################
 
 include: **/*.fusion
-
+prototype(Flowpack.SearchPlugin:SearchResultRenderer).itemRenderer.@context.searchHit = ${null}
